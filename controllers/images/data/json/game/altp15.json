@@ -1,0 +1,14 @@
+{
+  "allquestion": [
+    
+    {
+      "dapan": "A",
+      "link": "https://i.postimg.cc/B6yKjZvy/15-1-A.png",
+      "helpone": ["B","C"],
+      "helptwo": ["https://i.postimg.cc/BbDvbdff/hai-15-1-A-1.png", "https://i.postimg.cc/3RzRK36Z/hai-15-1-A-2.png"],
+      "helpthree": ["D", "A", "D"],
+      "giaithich": "Willem Kolff"
+    }
+    
+  ]
+}

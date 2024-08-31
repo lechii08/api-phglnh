@@ -1,0 +1,38 @@
+{
+  "allquestion": [
+    
+    {
+      "dapan": "D",
+      "link": "https://i.postimg.cc/D0PVqjqL/10-1-D.png",
+      "helpone": ["B","C"],
+      "helptwo": ["https://i.postimg.cc/SKPwnRGH/hai-10-1-D-1.png", "https://i.postimg.cc/mDFKC4Xk/hai-10-1-D-2.png"],
+      "helpthree": ["A", "D", "D"],
+      "giaithich": "vào năm 1885, sau vài tháng làm việc và chuẩn bị một cách tỉ mỉ, Vincent van Gogh đã hoàn tất Những người ăn khoai tây, một bức chân dung về một gia đình nông dân sinh động với tông màu tối đang quây quần bên bàn trong mái nhà lụp xụp, chia sẻ bữa ăn tối dưới ngọn đèn dầu, với đồng hồ ở góc trên tường chỉ số 7"
+    },
+    {
+      "dapan": "A",
+      "link": "https://i.postimg.cc/dQSvbQKP/10-2-A.png",
+      "helpone": ["B","D"],
+      "helptwo": ["https://i.postimg.cc/pLsNtq5W/hai-10-2-A-1.png", "https://i.postimg.cc/SKRBQCcW/hai-10-2-A-2.png"],
+      "helpthree": ["A", "A", "A"],
+      "giaithich": "sau khi tham gia cuộc Nội chiến ở phía Hồng quân năm 1920, Sholokhov trở về quê, một làng Cossack thuộc trấn Veshenskaya vùng sông Đông (nay là tỉnh Rostovsky, Liên bang Nga). Năm 1924, ông bắt đầu viết Sông Đông êm đềm từ năm 1925 và lần lượt phát hành"
+    },
+    {
+      "dapan": "C",
+      "link": "https://i.postimg.cc/5NcTMM1V/10-3-C.png",
+      "helpone": ["A","D"],
+      "helptwo": ["https://i.postimg.cc/6qHDK8h5/hai-10-3-C-1.png", "https://i.postimg.cc/6q6DFrnm/hai-10-3-C-2.png"],
+      "helpthree": ["C", "C", "B"],
+      "giaithich": "Tỷ lệ vàng được ký hiệu bằng ký tự “ϕ” (phi) trong bảng chữ cái Hy Lạp nhằm tưởng nhớ đến Phidias – nhà điêu khắc đã xây dựng nên đền Parthenon"
+    },
+    {
+      "dapan": "B",
+      "link": "https://i.postimg.cc/fWptX3X9/10-4-B.png",
+      "helpone": ["C","D"],
+      "helptwo": ["https://i.postimg.cc/y6v7ghxM/hai-3-3-B-1.png", "https://i.postimg.cc/T3Wx4Z0x/hai-3-3-B-2.png"],
+      "helpthree": ["C", "C", "B"],
+      "giaithich": "hồi quang phản chiếu là một từ Hán Việt vốn để chỉ hiện tượng ánh sáng phản xạ lúc mặt trời sắp lặn khiến bầu trời trở nên sáng hơn trong thời gian ngắn rồi nhanh chóng tối đi, từ hiện tượng này người ta sử dụng cụm từ để ẩn dụ cho việc một người đột nhiên trở nên minh mẫn, khoẻ mạnh trong một khoảng thời gian ngắn trước lúc qua đời"
+    }
+    
+  ]
+}

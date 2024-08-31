@@ -1,0 +1,38 @@
+{
+  "allquestion": [
+    
+    {
+      "dapan": "C",
+      "link": "https://i.postimg.cc/yN66JBBs/6-1-C.png",
+      "helpone": ["A","D"],
+      "helptwo": ["https://i.postimg.cc/DzLTRd6z/hai-6-1-C-1.png", "https://i.postimg.cc/Mphwsry4/hai-6-1-C-2.png"],
+      "helpthree": ["C", "B", "B"],
+      "giaithich": "Hoài Sơn (củ mài) còn có tên khác: Thự dự, Sơn dược, Sơn thự, Chư thư, Ngọc duyên, Nhi thảo, Tu thúy"
+    },
+    {
+      "dapan": "A",
+      "link": "https://i.postimg.cc/3rdsZbZB/6-2-A.png",
+      "helpone": ["C","D"],
+      "helptwo": ["https://i.postimg.cc/Bn8sBG1H/hai-6-2-A-1.png", "https://i.postimg.cc/4N2sc3nX/hai-6-2-A-2.png"],
+      "helpthree": ["A", "A", "A"],
+      "giaithich": "động vật thân lỗ hay bọt biển/hải miên là một ngành động vật đa bào nguyên thuỷ thuộc Ngành Thân lỗ, có cấu trúc tế bào tách biệt và phần lớn là sinh sống ở biển. Cơ thể động vật thân lỗ có hình cốc gồm các tế động vật đa bào sớm nhất, phát triển từ các tập đoàn tế bào."
+    },
+    {
+      "dapan": "B",
+      "link": "https://i.postimg.cc/bwPqYDGW/6-3-B.png",
+      "helpone": ["A","D"],
+      "helptwo": ["https://i.postimg.cc/V6Fckf3Q/hai-6-3-B-1.png", "https://i.postimg.cc/RFmBm6pL/hai-6-3-B-2.png"],
+      "helpthree": ["B", "B", "C"],
+      "giaithich": "Ankara trước đây gọi là Ancyra hoặc Angora, thủ đô Thổ Nhĩ Kỳ và là thành phố lớn thứ hai của quốc gia này sau Istanbul. Là thủ đô hành chính từ thập niên 1920, Ankara đã có vai trò là trung tâm hành chính, nơi ở của các chính khách, viên chức hành chính và công chức Thổ Nhĩ Kỳ"
+    },
+    {
+      "dapan": "D",
+      "link": "https://i.postimg.cc/brC0RGND/6-4-D.png",
+      "helpone": ["B","C"],
+      "helptwo": ["https://i.postimg.cc/BbDvbdff/hai-15-1-A-1.png", "https://i.postimg.cc/3RzRK36Z/hai-15-1-A-2.png"],
+      "helpthree": ["A", "A", "A"],
+      "giaithich": "dung dịch trong bật lửa ga là khí butan hóa lỏng. Butan thường được sử dụng trong bật lửa trên toàn thế giới. Lý do chính là nó không màu, không mùi và rất dễ cháy. Nó cũng là một trong những loại khí hóa lỏng dễ dàng nhất"
+    }
+    
+  ]
+    }
